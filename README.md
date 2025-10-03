@@ -12,6 +12,7 @@ Both board have a calibration function in which the Mega transmits a set number 
 Some issues that I encountered were with the rejection of backround light radiation, making the threshold between '0' and '1' variable. Also a drawback of the transmission of data using visible light is that the transmitter and the receiver need to be close and alligned in order for correct data transmission.
 
 REFERENCES:
+
 https://www.ted.com/talks/harald_haas_wireless_data_from_every_light_bulb 
 
 https://iopscience.iop.org/article/10.1088/1757-899X/872/1/012010/pdf 
